@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A Web Developer
-
-### More Information
-
-I live in Vietnam and build some products using .Net, Angular
+I'm a Web Developer. I live in Vietnam and build some products using .Net, Angular
